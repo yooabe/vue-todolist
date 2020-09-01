@@ -10,7 +10,9 @@
 👋 [My to-dos](https://yooabe.github.io/vue-todolist/.index.html")
 #### 项目预览
 ![avatar](/demo.jpg)
+
 <br>
+
 ![avatar](/demo.gif)
 #### 技术栈
 前端：vue+vue cli
