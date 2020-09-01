@@ -7,14 +7,16 @@
 ### 演示地址
 > 目前仅支持PC端
 
-[点击我前往体验](https://yooabe.github.io/vue-todolist/.index.html")
+[My to-dos](https://yooabe.github.io/vue-todolist/.index.html")
+`( 为何我链接前有个图标，恰巧你了解的话能否帮我解答一下 )`
+
 ### 项目预览
 ![avatar](/demo.jpg)
 
 <br>
 
 ![avatar](/demo.gif)
-*( gif貌似显示效果不佳 )*
+`( gif貌似显示效果不佳 )`
 <br>
 
 ### 技术栈
