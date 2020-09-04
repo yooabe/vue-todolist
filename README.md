@@ -6,7 +6,7 @@
 
 ### 演示地址
 
-[My to-dos from Abe](https://yooabe.github.io/vue-todolist/index.html)
+[在线预览](https://yooabe.github.io/vue-todolist/index.html)
 
 `目前仅支持PC端`
 `移动端等掌握基础知识后来开发`
